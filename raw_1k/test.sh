@@ -1,1 +1,1 @@
-confluent-7.4.0/bin/kafka-producer-perf-test --producer.config config.properties  --throughput -1 --num-records 1000000 --record-size 1000 --topic 1k_test
+kafka-producer-perf-test --producer.config config.properties  --throughput -1 --num-records 100000 --record-size 1000 --topic raw_1k_test --print-metrics

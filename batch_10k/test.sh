@@ -1,0 +1,1 @@
+kafka-producer-perf-test --producer.config standard.properties  --throughput 50000 --num-records 100000 --record-size 10000 --topic raw_100k_test --print-metrics

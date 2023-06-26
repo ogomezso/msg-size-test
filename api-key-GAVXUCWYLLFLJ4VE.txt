@@ -1,0 +1,10 @@
+=== Confluent Cloud API key: lkc-mkkp12 ===
+
+API key:
+GAVXUCWYLLFLJ4VE
+
+API secret:
+NKQ8gapUfgyv8Vk+SdScdif7swK1qpbLuczTKkCA0T30mwC2WmP8C91VZMcXaZVS
+
+Bootstrap server:
+pkc-mxqvx.europe-southwest1.gcp.confluent.cloud:9092
